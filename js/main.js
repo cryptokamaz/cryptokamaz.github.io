@@ -234,7 +234,7 @@ owl active
 
 
 // CountDown Js
-	var deadline = 'january 1 2022 00:00:00 GMT +0300';
+	var deadline = 'january 1 2023 00:00:00 GMT +0300';
 		function time_remaining(endtime){
 			var t = Date.parse(endtime) - Date.parse(new Date());
 			var seconds = Math.floor( (t/1000) % 60 );
@@ -269,7 +269,7 @@ owl active
 		run_clock('clockdiv',deadline);
 		
 		// CountDown Js
-	var deadline = 'january 1 2022 00:00:00 GMT +0300';
+	var deadline = 'january 1 2023 00:00:00 GMT +0300';
 		function time_remaining(endtime){
 			var t = Date.parse(endtime) - Date.parse(new Date());
 			var seconds = Math.floor( (t/1000) % 60 );
